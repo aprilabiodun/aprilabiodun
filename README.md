@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aprilabiodun
-- 👀 I’m interested in web applications and tech in the environmental spaces, more specifically, marine spaces
-- 💞️ I’m looking to collaborate on, well, anything with anyone who will tolerate me
-- 📫 How to reach me oudiencebranding@gmail.com
+
+- 📫 How to reach me dockeryapril@gmail.com
 
 <!---
 aprilabiodun/aprilabiodun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
